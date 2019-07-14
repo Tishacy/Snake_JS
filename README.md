@@ -1,6 +1,6 @@
 # 原生Javascript实现贪吃蛇
 
-<video src="./demo.mov" width="500px" height="500px"></video>
+<img src="./demo.gif" width="500px" height="500px">
 
 ## Have a try
 
