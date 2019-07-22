@@ -41,7 +41,7 @@
 .startBtn button {
     width: 200px;
     height: 80px;
-    background-image: url(https://github.com/Tishacy/Snake_JS/blob/master/images/startGame.png);
+    background-image: url(https://raw.githubusercontent.com/Tishacy/Snake_JS/master/images/startGame.png);
     margin-top: -40px;
     margin-left: -100px;
 }
@@ -52,7 +52,7 @@
 .pauseBtn button {
     width: 70px;
     height: 70px;
-    background-image: url(https://github.com/Tishacy/Snake_JS/blob/master/images/pause.png);
+    background-image: url(https://raw.githubusercontent.com/Tishacy/Snake_JS/master/images/pause.png);
     margin-top: -35px;
     margin-left: -35px;
 }
@@ -71,13 +71,13 @@
 
 .snakeHead {
     background-size: 100% 100%;
-    background-image: url(https://github.com/Tishacy/Snake_JS/blob/master/images/snakeHead.png);
+    background-image: url(https://raw.githubusercontent.com/Tishacy/Snake_JS/master/images/snakeHead.png);
 }
 .snakeBody {
     background-color: #9ddbb1;
     border-radius: 10px;
 }
 .food {
-    background-image: url(https://github.com/Tishacy/Snake_JS/blob/master/images/food.png);
+    background-image: url(https://raw.githubusercontent.com/Tishacy/Snake_JS/master/images/food.png);
     background-size: cover;
 }
