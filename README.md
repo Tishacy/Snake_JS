@@ -4,6 +4,11 @@
 
 ## Have a try
 
+### Online
+[Click here to play online.](http://htmlpreview.github.io/?https://github.com/Tishacy/Snake_JS/blob/master/index.html)
+
+### Local
+
 ```bash
 $ git clone https://github.com/Tishacy/Snake_JS.git
 $ cd Snake_JS
